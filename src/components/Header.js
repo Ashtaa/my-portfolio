@@ -19,7 +19,7 @@ const Header = () => {
     >
       <Flex maxW="1280px" mx="auto" px={16} justifyContent="space-between">
         <Text fontSize="2xl" fontWeight="bold">
-          My App
+         portfolio
         </Text>
         <Flex align="center" spacing={16}>
           <Link
